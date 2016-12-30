@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26014.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{E037BF07-BE84-483F-A26E-02EC0C8B4D19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stories.Web", "src\stories\Stories.Web.csproj", "{36855707-A0C3-43CF-9D15-40622CD0FE0E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4B0A52D7-59DC-4216-8943-1C76D913F7E7}"
+	ProjectSection(SolutionItems) = preProject
+		docker-compose.ci.build.yml = docker-compose.ci.build.yml
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stories.Models", "Stories.Models\Stories.Models.csproj", "{1CE8D91B-8BF3-4140-82EE-6518595D0BDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36855707-A0C3-43CF-9D15-40622CD0FE0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36855707-A0C3-43CF-9D15-40622CD0FE0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36855707-A0C3-43CF-9D15-40622CD0FE0E}.Debug|x64.ActiveCfg = Debug|x64
+		{36855707-A0C3-43CF-9D15-40622CD0FE0E}.Debug|x64.Build.0 = Debug|x64
+		{36855707-A0C3-43CF-9D15-40622CD0FE0E}.Debug|x86.ActiveCfg = Debug|x86
+		{36855707-A0C3-43CF-9D15-40622CD0FE0E}.Debug|x86.Build.0 = Debug|x86
+		{36855707-A0C3-43CF-9D15-40622CD0FE0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36855707-A0C3-43CF-9D15-40622CD0FE0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36855707-A0C3-43CF-9D15-40622CD0FE0E}.Release|x64.ActiveCfg = Release|x64
+		{36855707-A0C3-43CF-9D15-40622CD0FE0E}.Release|x64.Build.0 = Release|x64
+		{36855707-A0C3-43CF-9D15-40622CD0FE0E}.Release|x86.ActiveCfg = Release|x86
+		{36855707-A0C3-43CF-9D15-40622CD0FE0E}.Release|x86.Build.0 = Release|x86
+		{1CE8D91B-8BF3-4140-82EE-6518595D0BDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CE8D91B-8BF3-4140-82EE-6518595D0BDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CE8D91B-8BF3-4140-82EE-6518595D0BDA}.Debug|x64.ActiveCfg = Debug|x64
+		{1CE8D91B-8BF3-4140-82EE-6518595D0BDA}.Debug|x64.Build.0 = Debug|x64
+		{1CE8D91B-8BF3-4140-82EE-6518595D0BDA}.Debug|x86.ActiveCfg = Debug|x86
+		{1CE8D91B-8BF3-4140-82EE-6518595D0BDA}.Debug|x86.Build.0 = Debug|x86
+		{1CE8D91B-8BF3-4140-82EE-6518595D0BDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CE8D91B-8BF3-4140-82EE-6518595D0BDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CE8D91B-8BF3-4140-82EE-6518595D0BDA}.Release|x64.ActiveCfg = Release|x64
+		{1CE8D91B-8BF3-4140-82EE-6518595D0BDA}.Release|x64.Build.0 = Release|x64
+		{1CE8D91B-8BF3-4140-82EE-6518595D0BDA}.Release|x86.ActiveCfg = Release|x86
+		{1CE8D91B-8BF3-4140-82EE-6518595D0BDA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{36855707-A0C3-43CF-9D15-40622CD0FE0E} = {E037BF07-BE84-483F-A26E-02EC0C8B4D19}
+		{1CE8D91B-8BF3-4140-82EE-6518595D0BDA} = {E037BF07-BE84-483F-A26E-02EC0C8B4D19}
+	EndGlobalSection
+EndGlobal
