@@ -7,3 +7,5 @@ C:\Users\Administrator\documents\visual studio 2017\Projects\stories\src\stories
 C:\Users\Administrator\documents\visual studio 2017\Projects\stories\src\stories\obj\Debug\netcoreapp1.1\Stories.Web.AssemblyInfo.cs
 C:\Users\Administrator\documents\visual studio 2017\Projects\stories\src\stories\obj\Debug\netcoreapp1.1\Stories.Web.dll
 C:\Users\Administrator\documents\visual studio 2017\Projects\stories\src\stories\obj\Debug\netcoreapp1.1\Stories.Web.pdb
+C:\Users\Administrator\documents\visual studio 2017\Projects\stories\src\stories\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\stories\src\stories\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.amd64.dll

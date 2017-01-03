@@ -14,6 +14,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stories.Models", "Stories.Models\Stories.Models.csproj", "{1CE8D91B-8BF3-4140-82EE-6518595D0BDA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stories.Data", "Stories.Data\Stories.Data.csproj", "{10920522-0B0E-40AF-8847-37DE7CE0BE1E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,6 +50,18 @@ Global
 		{1CE8D91B-8BF3-4140-82EE-6518595D0BDA}.Release|x64.Build.0 = Release|x64
 		{1CE8D91B-8BF3-4140-82EE-6518595D0BDA}.Release|x86.ActiveCfg = Release|x86
 		{1CE8D91B-8BF3-4140-82EE-6518595D0BDA}.Release|x86.Build.0 = Release|x86
+		{10920522-0B0E-40AF-8847-37DE7CE0BE1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10920522-0B0E-40AF-8847-37DE7CE0BE1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10920522-0B0E-40AF-8847-37DE7CE0BE1E}.Debug|x64.ActiveCfg = Debug|x64
+		{10920522-0B0E-40AF-8847-37DE7CE0BE1E}.Debug|x64.Build.0 = Debug|x64
+		{10920522-0B0E-40AF-8847-37DE7CE0BE1E}.Debug|x86.ActiveCfg = Debug|x86
+		{10920522-0B0E-40AF-8847-37DE7CE0BE1E}.Debug|x86.Build.0 = Debug|x86
+		{10920522-0B0E-40AF-8847-37DE7CE0BE1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10920522-0B0E-40AF-8847-37DE7CE0BE1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10920522-0B0E-40AF-8847-37DE7CE0BE1E}.Release|x64.ActiveCfg = Release|x64
+		{10920522-0B0E-40AF-8847-37DE7CE0BE1E}.Release|x64.Build.0 = Release|x64
+		{10920522-0B0E-40AF-8847-37DE7CE0BE1E}.Release|x86.ActiveCfg = Release|x86
+		{10920522-0B0E-40AF-8847-37DE7CE0BE1E}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -55,5 +69,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{36855707-A0C3-43CF-9D15-40622CD0FE0E} = {E037BF07-BE84-483F-A26E-02EC0C8B4D19}
 		{1CE8D91B-8BF3-4140-82EE-6518595D0BDA} = {E037BF07-BE84-483F-A26E-02EC0C8B4D19}
+		{10920522-0B0E-40AF-8847-37DE7CE0BE1E} = {E037BF07-BE84-483F-A26E-02EC0C8B4D19}
 	EndGlobalSection
 EndGlobal

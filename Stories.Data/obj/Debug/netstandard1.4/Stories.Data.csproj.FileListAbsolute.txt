@@ -1,0 +1,6 @@
+C:\Users\Administrator\documents\visual studio 2017\Projects\stories\Stories.Data\bin\Debug\netstandard1.4\Stories.Data.deps.json
+C:\Users\Administrator\documents\visual studio 2017\Projects\stories\Stories.Data\bin\Debug\netstandard1.4\Stories.Data.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\stories\Stories.Data\bin\Debug\netstandard1.4\Stories.Models.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\stories\Stories.Data\bin\Debug\netstandard1.4\Stories.Models.pdb
+C:\Users\Administrator\documents\visual studio 2017\Projects\stories\Stories.Data\obj\Debug\netstandard1.4\Stories.Data.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2017\Projects\stories\Stories.Data\obj\Debug\netstandard1.4\Stories.Data.AssemblyInfo.cs
